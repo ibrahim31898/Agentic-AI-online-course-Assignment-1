@@ -103,15 +103,3 @@ Student | Learning Python 🚀
 📄 License
 
 This project is for educational purposes only.
-
-```
-
----
-
-If you want, I can also:
-- Make a **GitHub-ready version with badges**
-- Add **screenshots or demo GIF**
-- Convert it into a **portfolio project README**  
-
-Just tell me 👍
-```
